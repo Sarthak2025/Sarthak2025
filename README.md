@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects related to DevOps, Cloud Infrastructure, and Automation.
 - 📫 How to reach me: Email: sarthakg.goswami@gmail.com | LinkedIn: https://www.linkedin.com/in/sarthak69/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fuct: I’m always up for a challenge, whether it's automating cloud infrastructure or competing in a cycling race!
+- ⚡ Fun fuct: I’m always up for a challenge, whether it's automating cloud infrastructure or competing in a swimming race!
 
 
 <!---
